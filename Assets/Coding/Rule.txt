@@ -1,0 +1,9 @@
+Game 2D NINJA
+Selesaikan misi, lewati rintangan, lewati / bunuh musuh dan lewati Gate untuk melaju ke level selanjutnya.
+
+Ambil misi yang telah ditentukan
+Ambil koin dan kumpulkan score setinggi mungkin
+Lewati rintangan dan bunuh musuh dengan cara diinjak / menembak senjata
+Ambil senjata untuk dapat membunuh musuh dan menghancurkan obstacle
+
+Tekan tombol R untuk restrat game

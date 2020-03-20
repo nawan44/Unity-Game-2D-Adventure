@@ -1,0 +1,15 @@
+{
+"companyName": "Rachmat",
+"productName": "Ninja",
+"productVersion": "1.0",
+"dataUrl": "Game2dAdventure.data.unityweb",
+"wasmCodeUrl": "Game2dAdventure.wasm.code.unityweb",
+"wasmFrameworkUrl": "Game2dAdventure.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.2.16f1"
+}

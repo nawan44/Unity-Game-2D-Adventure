@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Coding\LandGerak.cs">
+    <Files>
+      <File FileName="Assets\Coding\GameUIManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Coding\Koin.cs" Line="1" Column="1" />
+      <File FileName="Assets\Coding\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Coding\musuh.cs" Line="27" Column="5" />
+      <File FileName="Assets\Coding\ScrollingBackground.cs" Line="1" Column="1" />
+      <File FileName="Assets\Coding\CameraFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Coding\FinishLine.cs" Line="1" Column="1" />
+      <File FileName="Assets\Coding\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Coding\Mission.cs" Line="1" Column="1" />
+      <File FileName="Assets\Coding\tembakan.cs" Line="1" Column="1" />
+      <File FileName="Assets\Coding\kunai.cs" Line="1" Column="1" />
+      <File FileName="Assets\Coding\peluru.cs" Line="1" Column="1" />
+      <File FileName="Assets\Coding\batas_pemain.cs" Line="1" Column="1" />
+      <File FileName="Assets\Coding\LandGerak.cs" Line="27" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
