@@ -18,3 +18,24 @@ Created using:
   </span>
 
 <h2><a href="http://nawina2d.com" arget=blank> Demo<a></h2
+
+<h2>CREDITS</h2>
+<h3>ArtS</h3>
+<ul>
+  <li>Erin Facile</li>
+  <li>Clint Belangger</li>
+  <li>Camtatz</li>
+  </ul>
+  
+  <h3>Music</h3>
+<ul>
+  <li>Bart and The Great Hex-a-Hop site</li>
+  <li>A Jingling Sound</li>
+  <li>A Strange Warble</li>
+  <li>Yo Frankie</li>
+  </ul>
+  
+Special Thanks
+
+<p>GG Campus</p>
+<p>Open Game Art</p>
