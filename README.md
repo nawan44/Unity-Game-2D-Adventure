@@ -1,8 +1,8 @@
 <h1> Game 2D </h1>
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
+<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=master%20-%20OK" alt="Project Badge">
 
-<p>Game 2D Adventure<p>
+<p><h2>Game 2D Adventure</h2><p>
 
 
 <img src="http://rachmatgunawan.com/static/media/2d.468e3258.png" />
@@ -16,4 +16,4 @@ Unity 3D
 c # programming language
 
 
-<button><a href="http://nawina2d.com" arget=blank> Demo<a></button>
+<h2><a href="http://nawina2d.com" arget=blank> Demo<a></h2
