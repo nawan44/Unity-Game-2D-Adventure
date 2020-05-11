@@ -8,7 +8,7 @@
 <img src="http://rachmatgunawan.com/static/media/2d.468e3258.png" />
 
 Demo Youtube :
-https://www.youtube.com/watch?v=7XY5QhLP6Aw
+https://www.youtube.com/watch?v=Qb0U4UfmjFw
 
 <p>This 2D adventure game has 2 levels. There are several obstacles that must be passed by the player. To be able to go up in each level, players must complete missions, pick up a scroll.
 Players can fire weapons at the enemy, after taking the kunai symbol</p>
